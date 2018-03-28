@@ -57,4 +57,3 @@ $app->delete('/item/delete/:id', function($id) use ($app) {
 });
 
 $app->run();
-?>
